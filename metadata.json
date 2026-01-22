@@ -1,0 +1,5 @@
+{
+  "name": "🥝 Auto SSR QA Report Insight Pro",
+  "description": "A professional AI-powered auditing tool for LQA HTML reports. It filters noise, identifies P0/P1 critical issues using Gemini 3 Pro, and generates actionable XLSX fix lists.",
+  "requestFramePermissions": []
+}
